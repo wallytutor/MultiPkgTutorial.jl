@@ -31,3 +31,4 @@ Documentation will be treated as a project itself.
 1. Create a `Project.toml` file with only a `[deps]` section.
 1. Running Julia from within the `docs/` directory, activate the project with `] activate .` and add the sub-packages as dependencies.
 1. After each sub-package update, consider refreshing the local registry then `] update` in the documentation project.
+1. Create a `gh-pages` branch of the repository as [here](https://coderwall.com/p/0n3soa/create-a-disconnected-git-branch).

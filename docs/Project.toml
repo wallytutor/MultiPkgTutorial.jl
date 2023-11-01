@@ -1,8 +1,3 @@
-# name = "docs"
-# uuid = "8f15bc37-7128-414f-b5c7-d000b1fe85f1"
-# authors = ["Walter Dal'Maz Silva <walter.dalmazsilva@gmail.com>"]
-# version = "0.1.0"
-
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 # PkgCore = "e53c8557-27ca-4b42-9400-5de0a806af68"
