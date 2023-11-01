@@ -5,5 +5,5 @@
 
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-PkgCore = "e53c8557-27ca-4b42-9400-5de0a806af68"
-PkgOther = "8b2daee5-fc71-482f-9f0c-337f5aafbbbc"
+# PkgCore = "e53c8557-27ca-4b42-9400-5de0a806af68"
+# PkgOther = "8b2daee5-fc71-482f-9f0c-337f5aafbbbc"
