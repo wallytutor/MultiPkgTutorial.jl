@@ -25,11 +25,9 @@
 
 ## Documentation
 
-Documentation will be treated as a project itself. That means that the creation of the `docs` directory will be as
+Documentation will be treated as a project itself.
 
-```julia-repl
-(@v1.9) pkg> generate docs
-  Generating  project docs:
-    docs\Project.toml
-    docs\src\docs.jl
-```
+1. Create a `docs` directory in the root of the repository.
+1. Create a `Project.toml` file with only a `[deps]` section.
+1. Running Julia from within the `docs/` directory, activate the project with `] activate .` and add the sub-packages as dependencies.
+1. After each sub-package update, consider refreshing the local registry then `] update` in the documentation project.

@@ -27,8 +27,13 @@ makedocs(;
     ],
     format   = format,
     clean    = true,
-    sitename = "DryTooling.jl",
+    sitename = SITENAME,
     authors  = "Walter Dal'Maz Silva <walter.dalmazsilva.manager@gmail.com>",
     repo     = "$(REPOLINK)/blob/{commit}{path}#{line}",
     pages    = pages
+)
+
+deploydocs(;
+    repo="github.com/$(GITHUBUSER)/$(SITENAME)",
+    devbranch="main",
 )
