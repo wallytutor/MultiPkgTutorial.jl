@@ -1,0 +1,4 @@
+name = "MultiPkgTutorial"
+uuid = "c427388a-57d7-41ac-829a-6306804ab735"
+authors = ["Walter Dal'Maz Silva <walter.dalmazsilva@gmail.com>"]
+version = "0.1.0"
