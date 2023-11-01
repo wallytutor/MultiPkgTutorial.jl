@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#MultiPkgTutorial.jl","page":"Home","title":"MultiPkgTutorial.jl","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"PkgCore.coremean\nPkgCore.corestd\nPkgOther.otherstuff","category":"page"},{"location":"#PkgCore.coremean","page":"Home","title":"PkgCore.coremean","text":"Compute a mean of x with another function name.\n\n\n\n\n\n","category":"function"},{"location":"#PkgCore.corestd","page":"Home","title":"PkgCore.corestd","text":"Compute a std of x with another function name.\n\n\n\n\n\n","category":"function"},{"location":"#PkgOther.otherstuff","page":"Home","title":"PkgOther.otherstuff","text":"Other stuff function for doing nothing.\n\n\n\n\n\n","category":"function"}]
+}
