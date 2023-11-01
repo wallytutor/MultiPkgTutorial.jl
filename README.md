@@ -18,3 +18,5 @@
     (PkgOther) pkg> add PkgCore
     Resolving package versions...
     ```
+
+1. After modifications to `PkgCore`, these must commited to a new version and registry updated.
