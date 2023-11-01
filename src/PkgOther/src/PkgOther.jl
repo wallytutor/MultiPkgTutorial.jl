@@ -8,4 +8,9 @@ function __init__()
     @info "std .... $(PkgCore.corestd([1, 2, 3]))"
 end
 
+"Other stuff function for doing nothing."
+function otherstuff()
+    @warn "This function is lazy and does nothing"
+end
+
 end # module PkgOther
