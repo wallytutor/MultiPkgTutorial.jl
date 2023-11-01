@@ -2,3 +2,6 @@ name = "PkgOther"
 uuid = "8b2daee5-fc71-482f-9f0c-337f5aafbbbc"
 authors = ["Walter Dal'Maz Silva <walter.dalmazsilva@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+PkgCore = "e53c8557-27ca-4b42-9400-5de0a806af68"

@@ -1,4 +1,7 @@
 name = "PkgCore"
 uuid = "e53c8557-27ca-4b42-9400-5de0a806af68"
 authors = ["Walter Dal'Maz Silva <walter.dalmazsilva@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
+
+[deps]
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
