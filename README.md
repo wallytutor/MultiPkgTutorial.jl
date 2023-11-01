@@ -13,5 +13,8 @@
 
     ```@julia-repl
     (@v1.9) pkg> activate .
-    (@v1.9) (PkgOther)> add PkgCore
+    Activating project at `D:\MultiPkgTutorial.jl\src\PkgOther`
+
+    (PkgOther) pkg> add PkgCore
+    Resolving package versions...
     ```
