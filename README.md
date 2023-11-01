@@ -8,4 +8,4 @@
     (@v1.9) pkg> generate PkgOther
     ```
 
-1. 
+1. To be able to create dependencies between packages, add them to a local registry.
