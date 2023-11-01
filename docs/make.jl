@@ -3,6 +3,8 @@ using Documenter
 using PkgCore
 using PkgOther
 
+const NAME = "Walter Dal'Maz Silva"
+const MAIL = "walter.dalmazsilva.manager@gmail.com"
 const GITHUBUSER = "wallytutor"
 const SITENAME = "MultiPkgTutorial.jl"
 const REPOLINK = "https://github.com/$(GITHUBUSER)/$(SITENAME)"
@@ -28,7 +30,7 @@ makedocs(;
     format   = format,
     clean    = true,
     sitename = SITENAME,
-    authors  = "Walter Dal'Maz Silva <walter.dalmazsilva.manager@gmail.com>",
+    authors  = "$(NAME) <$(MAIL)>",
     repo     = "$(REPOLINK)/blob/{commit}{path}#{line}",
     pages    = pages
 )
